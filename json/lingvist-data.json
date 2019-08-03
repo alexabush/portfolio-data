@@ -10,12 +10,39 @@
       "partOfSpeech": "Noun"
     },
     {
-      "foreignWord": "vez",
-      "foreignPhrase": "Una otra *",
-      "nativePhrase": "One more time",
-      "nativeWord": ["once"],
+      "foreignWord": "tengo",
+      "foreignPhrase": "No * ni idea",
+      "nativePhrase": "I have no idea!",
+      "nativeWord": ["I have"],
+      "wordStrength": 3,
+      "wordDetails": "",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "foreignWord": "malo",
+      "foreignPhrase": "Mi español es *",
+      "nativePhrase": "My Spanish is bad",
+      "nativeWord": ["bad"],
+      "wordStrength": 3,
+      "wordDetails": "masculine",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "foreignWord": "ayuda",
+      "foreignPhrase": "Necesito *",
+      "nativePhrase": "I need help",
+      "nativeWord": ["help"],
       "wordStrength": 4,
-      "wordDetails": "feminine, singular",
+      "wordDetails": "feminine",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "foreignWord": "suerte",
+      "foreignPhrase": "Buena *",
+      "nativePhrase": "Good luck",
+      "nativeWord": ["luck"],
+      "wordStrength": 1,
+      "wordDetails": "",
       "partOfSpeech": "Noun"
     }
   ]
