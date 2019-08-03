@@ -1,0 +1,22 @@
+{
+  "words": [
+    {
+      "foreignWord": "trabajo",
+      "foreignPhrase": "El * duro",
+      "nativePhrase": "The hard work",
+      "nativeWord": ["the work", "the job"],
+      "wordStrength": 1,
+      "wordDetails": "masculine, singular",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "foreignWord": "vez",
+      "foreignPhrase": "Una otra *",
+      "nativePhrase": "One more time",
+      "nativeWord": ["once"],
+      "wordStrength": 4,
+      "wordDetails": "feminine, singular",
+      "partOfSpeech": "Noun"
+    }
+  ]
+}
