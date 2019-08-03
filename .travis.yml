@@ -1,6 +1,13 @@
 language: node_js
-
+node_js:
+  - 'stable'
+cache:
+  directories:
+    - node_modules
 deploy:
   provider: surge
-  project: ./
+  skip_cleanup: true
   domain: alex-portfolio-data.surge.sh
+  project: ./json/
+on:
+  branch: master
