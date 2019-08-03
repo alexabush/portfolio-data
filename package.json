@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexabush/portfolio-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexabush/portfolio-data/issues"
+  },
+  "homepage": "https://github.com/alexabush/portfolio-data#readme",
+  "devDependencies": {
+    "surge": "^0.21.3"
+  }
+}
