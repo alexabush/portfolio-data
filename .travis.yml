@@ -1,4 +1,4 @@
 deploy:
   provider: surge
-  project: ./static/
+  project: ./
   domain: alex-portfolio-data.surge.sh
