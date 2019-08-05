@@ -2,15 +2,13 @@
   "projects": [
     {
       "name": "language",
-      "imgUrl": "images/snake-image3.png",
-      "appName": "Language Learning",
+      "appName": "Language",
       "description": "Card Based Language Learning. Inspired by Lingvist.",
       "githubLink": "https://github.com/alexabush/lingvist-clone",
-      "liveLink": "https://lingvist.alexanderbush7.now.sh/"
+      "liveLink": "https://language.alexanderbush7.now.sh"
     },
     {
       "name": "anki",
-      "imgUrl": "images/snake-image3.png",
       "appName": "Flashcards",
       "description": "Flashcards enhanced by Space Repetition Algorithm. Inspired by Anki.",
       "githubLink": "https://github.com/alexabush/anki-clone",
@@ -18,7 +16,6 @@
     },
     {
       "name": "fitness",
-      "imgUrl": "images/snake-image3.png",
       "appName": "Fitness Tracker",
       "description": "Exercise tracker for resistance training",
       "githubLink": "https://github.com/alexabush/fitness-app",
@@ -26,7 +23,6 @@
     },
     {
       "name": "snake",
-      "imgUrl": "images/snake-image3.png",
       "appName": "Snake",
       "description": "Classic Browser Game.",
       "githubLink": "https://github.com/alexabush/snake-game",
@@ -34,7 +30,6 @@
     },
     {
       "name": "battleship",
-      "imgUrl": "images/battleship5.png",
       "appName": "Battleship",
       "description": "React web app. Love the smell of napalm in the morning.",
       "githubLink": "https://github.com/alexabush/battleship",
@@ -42,7 +37,6 @@
     },
     {
       "name": "connectFour",
-      "imgUrl": "images/ConnectFour.png",
       "appName": "Connect Four",
       "description": "React web app. Make sure to win. :)",
       "githubLink": "https://github.com/alexabush/connect-four",
