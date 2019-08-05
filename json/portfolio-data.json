@@ -1,6 +1,7 @@
 {
   "projects": [
     {
+      "name": "language",
       "imgUrl": "images/snake-image3.png",
       "appName": "Language Learning",
       "description": "Card Based Language Learning. Inspired by Lingvist.",
@@ -8,6 +9,7 @@
       "liveLink": "https://lingvist.alexanderbush7.now.sh/"
     },
     {
+      "name": "anki",
       "imgUrl": "images/snake-image3.png",
       "appName": "Flashcards",
       "description": "Flashcards enhanced by Space Repetition Algorithm. Inspired by Anki.",
@@ -15,6 +17,7 @@
       "liveLink": "https://fitness.alexanderbush7.now.sh/"
     },
     {
+      "name": "fitness",
       "imgUrl": "images/snake-image3.png",
       "appName": "Fitness Tracker",
       "description": "Exercise tracker for resistance training",
@@ -22,6 +25,7 @@
       "liveLink": "https://fitness.alexanderbush7.now.sh/"
     },
     {
+      "name": "snake",
       "imgUrl": "images/snake-image3.png",
       "appName": "Snake",
       "description": "Classic Browser Game.",
@@ -29,6 +33,7 @@
       "liveLink": "https://alexabush.github.io/snake-game/"
     },
     {
+      "name": "battleship",
       "imgUrl": "images/battleship5.png",
       "appName": "Battleship",
       "description": "React web app. Love the smell of napalm in the morning.",
@@ -36,6 +41,7 @@
       "liveLink": "https://alexabush.github.io/battleship/"
     },
     {
+      "name": "connectFour",
       "imgUrl": "images/ConnectFour.png",
       "appName": "Connect Four",
       "description": "React web app. Make sure to win. :)",
