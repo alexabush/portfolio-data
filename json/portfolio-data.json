@@ -16,7 +16,7 @@
     },
     {
       "name": "fitness",
-      "appName": "Fitness Tracker",
+      "appName": "Fitness",
       "description": "Exercise tracker for resistance training",
       "githubLink": "https://github.com/alexabush/fitness-app",
       "liveLink": "https://fitness.alexanderbush7.now.sh/"
