@@ -48,6 +48,13 @@
       "description": "See if you can reorder the famous quote!",
       "githubLink": "https://github.com/alexabush/quote-scrambler",
       "liveLink": "https://alex-bush-quote-scrambler.surge.sh"
+    },
+    {
+      "name": "tictactoe",
+      "appName": "Tic Tac Toe",
+      "description": "Tic tac toe. Like connect four, but only three",
+      "githubLink": "https://github.com/alexabush/tic-tac-toe-react",
+      "liveLink": "https://alex-bush-tic-tac-toe.surge.sh/"
     }
   ]
 }
