@@ -41,6 +41,13 @@
       "description": "React web app. Make sure to win. :)",
       "githubLink": "https://github.com/alexabush/connect-four",
       "liveLink": "https://alexabush.github.io/connect-four/"
+    },
+    {
+      "name": "quote",
+      "appName": "Quote Game",
+      "description": "See if you can reorder the famous quote!",
+      "githubLink": "https://github.com/alexabush/quote-scrambler",
+      "liveLink": "https://alex-bush-quote-scrambler.surge.sh"
     }
   ]
 }
